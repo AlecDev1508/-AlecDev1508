@@ -14,7 +14,7 @@
 - Estudos e exercícios em Python
 
 📚 Objetivo:
-Desenvolver experiência prática através de projetos reais, estudos contínuos e construção de soluções para clientes.
+Desenvolver experiência prática através de estudos contínuos e projetos reais.
 
 ## Tecnologias em aprendizado
 
@@ -26,8 +26,6 @@ Desenvolver experiência prática através de projetos reais, estudos contínuos
 - GitHub
 
 ## Atualmente
-
-🔹 Estudando para exames de Algoritmos e Lógica Matemática
 
 🔹 Desenvolvendo projetos para portfólio
 
